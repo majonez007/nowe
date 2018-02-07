@@ -25,7 +25,7 @@ int main()
 
 	printf("Pierwsza: ");
 	scanf("%d", &a);
-	printf("%t Druga: ");
+	printf("\t" Druga: ");
 	scanf("%d", &b);
 	printf("Najwiekszy wspolny dzielnik (%d,%d) = ", a, b);
 	pokaz_nwd(a,b);
